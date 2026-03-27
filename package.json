@@ -1,0 +1,6 @@
+{
+  "name": "@YOUR_USERNAME/my-first-package",
+  "version": "1.0.0",
+  "description": "My first GitHub package",
+  "main": "index.js"
+}
