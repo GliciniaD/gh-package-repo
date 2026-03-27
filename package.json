@@ -2,5 +2,8 @@
   "name": "@GliciniaD/my-first-package",
   "version": "1.0.0",
   "description": "My first GitHub package",
-  "main": "index.js"
+  "main": "index.js",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com"
+  }
 }
